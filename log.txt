@@ -1,0 +1,16 @@
+
+1682626744114:GET: /api/users/
+
+1682626757381:POST: /api/users/
+
+1682626763906:GET: /api/users/
+
+1682626778150:POST: /api/users/
+
+1682626784617:GET: /api/users/
+
+1682626793266:GET: /api/users/644a94881eeb516a82dc0f26
+
+1682626803618:DELETE: /api/users/644a94881eeb516a82dc0f26
+
+1682626814937:GET: /api/users/
